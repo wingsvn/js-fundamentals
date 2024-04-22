@@ -23,7 +23,7 @@ Je leert zelfstandig de fundamentals van Javascript om te gebruiken in de leerta
 
 ## Werkwijze
 
-Volg wekelijks verschillende lessen ven [learnjavascript.online](https://learnjavascript.online). (De eerste 77 lessen zijn gratis, er is studentenkorting voor als je meer lessen wil volgen)
+Volg wekelijks verschillende lessen ven [learnjavascript.online](https://learnjavascript.online) of [learnprogramming.online](https://learnprogramming.online). (De eerste 50–70 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wil volgen)
 
 Hou in een leerlog bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe Javascript werkt. Je kan het bijhouden in de wiki van deze deeltaak, maar ook in je we-love-web blog.
 
